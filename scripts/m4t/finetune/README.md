@@ -18,7 +18,7 @@ List of input arguments for `dataset.py`:
   --target_lang TARGET_LANG
                         M4T langcode of the dataset TARGET language
   --split SPLIT         Dataset split/shard to download (`train`, `test`)
-  --save_dir SAVE_DIR   Directory where the datastets will be stored with HuggingFace datasets cache files
+  --save_dir SAVE_DIR   Directory where the datasets will be stored with HuggingFace datasets cache files
 ```
 
 Language codes should follow the notation adopted by M4T models.
